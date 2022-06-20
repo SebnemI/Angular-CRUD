@@ -1,0 +1,47 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "Elma Herring",
+	"company": "Youtube",
+        "email": "elmaherring@unq.com",
+	"title": "Youtuber",
+        "mobile": "49772020",
+	"photo": "https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png",
+	"groupId": "3"
+      },
+      {
+        "id": 2,
+        "name": "Knapp Berry",
+	"company": "Friend",
+        "email": "knappberry@unq.com",
+	"title": "Freelancer",
+        "mobile": "47252967",
+	"photo": "https://www.pngall.com/wp-content/uploads/5/Profile-Male-PNG.png",
+	"groupId": "1"
+      },
+      {
+        "id": 3,
+        "name": "Bell Burgess",
+	"company": "Friend",
+        "email": "bellburgess@unq.com",
+        "mobile": "47802693",
+	"photo": "https://cdn-icons-png.flaticon.com/512/219/219990.png",
+	"groupId":"2"
+      }
+],
+    "groups": [
+	{
+	"id": "1",
+	"name": "Colleague"
+	},
+	{
+	"id": "2",
+	"name": "Friend"
+	},
+	{
+	"id": "3",
+	"name": "Family"
+	}
+   ]
+}
